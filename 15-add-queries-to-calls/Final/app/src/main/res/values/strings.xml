@@ -1,0 +1,61 @@
+<!--
+  ~ Copyright (c) 2022 Razeware LLC
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in
+  ~ all copies or substantial portions of the Software.
+  ~
+  ~ Notwithstanding the foregoing, you may not use, copy, modify, merge, publish,
+  ~ distribute, sublicense, create a derivative work, and/or sell copies of the
+  ~ Software in any work that is designed, intended, or marketed for pedagogical or
+  ~ instructional purposes related to programming, coding, application development,
+  ~ or information technology.  Permission for such use, copying, modification,
+  ~ merger, publication, distribution, sublicensing, creation of derivative works,
+  ~ or sale is expressly withheld.
+  ~
+  ~ This project and source code may use libraries or frameworks that are
+  ~ released under various Open-Source licenses. Use of those libraries and
+  ~ frameworks are governed by their own individual licenses.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+  ~ THE SOFTWARE.
+  ~
+  ~ These materials have been reviewed and are updated as of 7/2022.
+  -->
+
+<resources>
+  <string name="app_name">Taskie</string>
+  <string name="email_input_hint">Email</string>
+  <string name="password_input_hint">Password</string>
+  <string name="login_button_text">Login</string>
+  <string name="no_account_text">Don\'t have an accout?</string>
+  <string name="register_label">Register</string>
+  <string name="name_hint">Name</string>
+  <string name="already_registered">Already registered? Log in!</string>
+  <string name="new_task_heading_text">Create a task!</string>
+  <string name="task_title_hint">Task title</string>
+  <string name="task_text_hint">Task text</string>
+  <string name="lowPriority">Low</string>
+  <string name="mediumPriority">Medium</string>
+  <string name="highPriority">High</string>
+  <string name="save_task_text">Save task</string>
+  <string name="no_data">No data! Create some notes! :]</string>
+  <string name="empty_fields">Please check your input!</string>
+  <string name="complete_task">Complete task</string>
+  <string name="delete_task">Delete task</string>
+  <string name="invalid_data">Invalid data!</string>
+  <string name="logout_button_text">Log Out</string>
+  <string name="user_name_text">Username: %1$s</string>
+  <string name="number_of_notes_text">Number of notes: %1$d</string>
+</resources>
